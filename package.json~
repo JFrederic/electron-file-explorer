@@ -4,8 +4,6 @@
   "main": "main.js",
   "devDependencies": {
     "electron": "^1.4.14",
-    "electron-connect": "^0.6.1",
-    "electron-packager": "^8.5.0",
-    "gulp": "^3.9.1"
+    "electron-packager": "^8.5.0"
   }
 }
